@@ -1,2 +1,3 @@
 # RIntSum2Sqr
-epresenting Integers as the Sum of Two Squares in the Ring Zn
+Representing Integers as the Sum of Two Squares in the Ring Zn
+GUI Matlab
